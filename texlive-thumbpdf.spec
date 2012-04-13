@@ -1,12 +1,12 @@
-# revision 23503
+# revision 25897
 # category Package
 # catalog-ctan /support/thumbpdf
-# catalog-date 2011-08-10 11:09:36 +0200
+# catalog-date 2012-04-09 21:06:19 +0200
 # catalog-license lppl
-# catalog-version 3.11
+# catalog-version 3.14
 Name:		texlive-thumbpdf
-Version:	3.11
-Release:	2
+Version:	3.14
+Release:	1
 Summary:	Thumbnails for pdfTeX and dvips/ps2pdf
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/thumbpdf
