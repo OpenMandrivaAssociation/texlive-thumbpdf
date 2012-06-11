@@ -1,11 +1,11 @@
-# revision 25897
+# revision 26040
 # category Package
 # catalog-ctan /support/thumbpdf
-# catalog-date 2012-04-09 21:06:19 +0200
+# catalog-date 2012-04-18 12:26:55 +0200
 # catalog-license lppl
-# catalog-version 3.14
+# catalog-version 3.15
 Name:		texlive-thumbpdf
-Version:	3.14
+Version:	3.15
 Release:	1
 Summary:	Thumbnails for pdfTeX and dvips/ps2pdf
 Group:		Publishing
@@ -41,7 +41,7 @@ LaTeX.
 %{_texmfdistdir}/scripts/thumbpdf/thumbpdf.pl
 %{_texmfdistdir}/tex/generic/thumbpdf/thumbpdf.sty
 %{_texmfdistdir}/tex/generic/thumbpdf/thumbpdf.tex
-%doc %{_texmfdistdir}/doc/generic/thumbpdf/readme.txt
+%doc %{_texmfdistdir}/doc/generic/thumbpdf/README
 %doc %{_mandir}/man1/thumbpdf.1*
 %doc %{_texmfdir}/doc/man/man1/thumbpdf.man1.pdf
 
