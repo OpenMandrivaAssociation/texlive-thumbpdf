@@ -1,4 +1,4 @@
-# revision 26040
+# revision 26689
 # category Package
 # catalog-ctan /support/thumbpdf
 # catalog-date 2012-04-18 12:26:55 +0200
