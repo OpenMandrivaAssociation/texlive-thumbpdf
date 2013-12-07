@@ -6,7 +6,7 @@
 # catalog-version 3.15
 Name:		texlive-thumbpdf
 Version:	3.15
-Release:	5
+Release:	6
 Summary:	Thumbnails for pdfTeX and dvips/ps2pdf
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/thumbpdf
