@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 3.15
 Name:		texlive-thumbpdf
-Version:	3.15
-Release:	11
+Version:	3.16
+Release:	1
 Summary:	Thumbnails for pdfTeX and dvips/ps2pdf
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/thumbpdf
