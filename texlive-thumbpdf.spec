@@ -1,6 +1,6 @@
 Name:		texlive-thumbpdf
 Version:	62518
-Release:	1
+Release:	2
 Summary:	Thumbnails for pdfTeX and dvips/ps2pdf
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/support/thumbpdf
