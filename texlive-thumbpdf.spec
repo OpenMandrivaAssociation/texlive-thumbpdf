@@ -3,7 +3,7 @@ Version:	62518
 Release:	2
 Summary:	Thumbnails for pdfTeX and dvips/ps2pdf
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/support/thumbpdf
+URL:		https://www.ctan.org/tex-archive/support/thumbpdf
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thumbpdf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thumbpdf.doc.r%{version}.tar.xz
