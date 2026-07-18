@@ -1,5 +1,6 @@
 %global tl_name thumbpdf
 %global tl_revision 79461
+%global tl_bin_links thumbpdf:%{_texmfdistdir}/scripts/thumbpdf/thumbpdf.pl
 
 Name:		texlive-%{tl_name}
 Epoch:		1
@@ -15,6 +16,8 @@ BuildArch:	noarch
 BuildSystem:	texlive
 Requires:	texlive(thumbpdf.bin)
 Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}.bin) = %{tl_revision}
+Provides:	texlive-%{tl_name}.bin = %{EVRD}
 
 %description
 A Perl script that provides support for thumbnails in pdfTeX and
